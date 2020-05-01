@@ -14,6 +14,7 @@ namespace test7
             Console.WriteLine("Hello World!");
 
             // ChromeOptionsオブジェクトを生成します。
+            // ChromeOptionsオブジェクトを生成します。
             var options = new ChromeOptions();
             // --headlessを追加します。
             //options.AddArgument("--headless");
